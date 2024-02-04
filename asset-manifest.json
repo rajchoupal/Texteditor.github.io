@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rajchoupal/Texteditor.github.io.git/static/css/main.f855e6bc.css",
-    "main.js": "/rajchoupal/Texteditor.github.io.git/static/js/main.44127cd5.js",
+    "main.js": "/rajchoupal/Texteditor.github.io.git/static/js/main.726cd370.js",
     "static/js/787.9a72b3b1.chunk.js": "/rajchoupal/Texteditor.github.io.git/static/js/787.9a72b3b1.chunk.js",
     "index.html": "/rajchoupal/Texteditor.github.io.git/index.html",
     "main.f855e6bc.css.map": "/rajchoupal/Texteditor.github.io.git/static/css/main.f855e6bc.css.map",
-    "main.44127cd5.js.map": "/rajchoupal/Texteditor.github.io.git/static/js/main.44127cd5.js.map",
+    "main.726cd370.js.map": "/rajchoupal/Texteditor.github.io.git/static/js/main.726cd370.js.map",
     "787.9a72b3b1.chunk.js.map": "/rajchoupal/Texteditor.github.io.git/static/js/787.9a72b3b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.44127cd5.js"
+    "static/js/main.726cd370.js"
   ]
 }
